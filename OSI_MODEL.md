@@ -13,6 +13,7 @@
 
 <hr>
 <H3>1. Application Layer</H3> 
+
 The application layer is used by end-user software such as web browsers and email clients. It provides protocols that allow software to send and receive information and present meaningful data to users. A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol , Post Office Protocol , Simple Mail Transfer Protocol , and Domain Name System.
 
 <H3>2. Presentation Layer</H3>
