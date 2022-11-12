@@ -10,7 +10,7 @@
     * Datalink layer 
     * Physical layer
 
->
+---
 ### 1. Application Layer 
 
 The application layer is used by end-user software such as web browsers and email clients. It provides protocols that allow software to send and receive information and present meaningful data to users. A few examples of application layer protocols are the Hypertext Transfer Protocol (HTTP), File Transfer Protocol , Post Office Protocol , Simple Mail Transfer Protocol , and Domain Name System.
@@ -27,6 +27,7 @@ The network layer has two main functions. One is breaking up segments into netwo
 The data link layer establishes and terminates a connection between two physically-connected nodes on a network. It breaks up packets into frames and sends them from source to destination. This layer is composed of two parts—Logical Link Control (LLC), which identifies network protocols, performs error checking and synchronizes frames, and Media Access Control (MAC) which uses MAC addresses to connect devices and define permissions to transmit and receive data.
 ### 7. Physical Layer
 The Physical layer converts the data which is in binary form into a signal to transmit over local media. at the recever the signal is receved at the physical layer and the signal is converted int bits and sent to application layer, and the application layer makes the senders message appear at recivers end.
->
+
+---
 ## Reference section
   * More about OSI layer in this video https://www.youtube.com/watch?v=vv4y_uOneC0
