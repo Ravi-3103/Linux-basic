@@ -4,13 +4,15 @@
 <br/>
 <br/>
 **There are seven layers in OSI model**
-       * Application layer
-       * Presentation layer
-       * Session layer
-       * Transport layer
-       * Network layer 
-       * Datalink layer 
-       * Physical layer
+       <li>
+        Application layer
+        Presentation layer
+        Session layer
+        Transport layer
+        Network layer 
+        Datalink layer 
+        Physical layer
+      </li>
 
 <hr>
 <H3>1. Application Layer</H3> 
