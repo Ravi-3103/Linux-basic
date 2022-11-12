@@ -2,7 +2,7 @@
   * The Open Systems Interconnection (OSI) model describes seven layers that computer systems use to communicate over a network. It was the first standard model for network communications
   * OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO as an international standard in 1984.
 <br>
-**There are seven layers in OSI model**
+<B>There are seven layers in OSI model</B>
        * Application layer
        * Presentation layer
        * Session layer
