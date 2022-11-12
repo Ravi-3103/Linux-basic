@@ -3,13 +3,13 @@
   * OSI was introduced in 1983 by representatives of the major computer and telecom companies, and was adopted by ISO as an international standard in 1984.
 <br>
 <B>There are seven layers in OSI model</B>
-       * Application layer
-       * Presentation layer
-       * Session layer
-       * Transport layer
-       * Network layer 
-       * Datalink layer 
-       * Physical layer
+   * Application layer
+   * Presentation layer
+   * Session layer
+   * Transport layer
+   * Network layer 
+   * Datalink layer 
+   * Physical layer
 
 <hr>
 <H3>1. Application Layer</H3> 
